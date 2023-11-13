@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193830955528",
+    "project_id": "voyage-dea50",
+    "storage_bucket": "voyage-dea50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193830955528:android:f6ec35fd92f351ef837fbd",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6u8Wa6m0vGtz1fQleNhMB_PzmC_rNgMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
